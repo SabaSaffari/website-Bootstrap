@@ -1,0 +1,220 @@
+* {
+  border-radius: 0 !important;
+}
+header{
+    background-color: rgb(247, 188, 154);
+}
+body{
+    background-color: white;
+}
+#mainNav{
+    overflow: hidden;
+}
+.brand-padding{
+    padding: 45px 32px;
+}
+.navitems-padding{
+    padding: 45px 25px;
+} 
+.change-size{
+    font-size: 40px;
+}
+#change-size2{
+    font-size: 35px;
+}
+.collapse{
+    justify-content: space-around;
+}
+.number{
+    background: #f3db33;
+}
+.number p{
+    font-size: 35px;
+    text-align: center;
+    margin-top: 40px;
+}
+#fullyResponsive p{
+    font-size: 35px;
+    padding: 20px;
+    margin: 0;
+} 
+#paragraph p{
+    padding: 20px;
+    margin: 0;
+    font-size: 20px;
+}
+.lineWithNum{
+    border-bottom: 3px solid rgb(255, 255, 255);
+    font-size: 22px;
+}
+.icon-size{
+    font-size: 35px;
+} 
+.icon-padding{
+    text-align: center;
+    padding: 20px;
+}
+#yellowLine{
+    height: 20px;
+    background-color: yellow;
+}
+.firstPara p{
+    font-size: 30px;
+    margin: 0;
+}
+.firstPara i{
+    font-size: 30px;
+    color: #fff714;
+}
+hr {
+    background-color: rgb(206, 199, 199);
+}  
+.backColor-yellow{
+    background-color: yellow;
+    padding: 20px;
+    margin: 0;
+}
+#topMain h3{
+    margin: 0;
+    padding-left: 10px;
+} 
+#topMain p{
+    padding: 20px;
+    font-size: 20px;
+    margin: 0; 
+}
+.arrow-right{
+    background-color: yellow;
+    text-align: center;
+}
+#setPadding{
+    padding-right: 0;
+    padding-left: 0;
+    text-align: center;
+}
+.backColor-gray{
+    background-color: rgb(206, 199, 199);
+}
+.arrow-size{
+    margin-top: 25px;
+    font-size: 25px;
+}
+.borderTop{
+    border-top: 35px solid yellow;
+    padding: 0;
+    overflow: hidden;
+}
+.icons{
+    flex-direction: column;
+    background: yellow;
+}
+.icons i{
+    justify-content: space-around;
+    padding: 35px 60px;
+    font-size: 40px;
+}
+.borderRight{
+    height: 220px;
+    margin-top: 10%;
+    background-color: blue;
+}
+.topLine i{
+    font-size: 40px;
+} 
+.borderBottom h4{
+    border-bottom: 1px solid rgb(136, 130, 130);
+    padding: 15px 0;
+}
+#readMore{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 10px;
+} 
+#readMore p{
+    background-color: rgb(206, 199, 199);
+    margin: 5px 0px 5px 0;
+    padding: 10px;
+}
+#readMore i{
+    background-color: yellow;
+    margin: 5px 8px 5px 0;
+    padding: 10px;
+} 
+.quote{
+    background-color: #e0db32;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.quote i{
+    padding: 30px 0px;
+    background-color: yellow;
+    font-size: 30px;
+    justify-content: center;
+}
+.banner p{
+    font-size: 26px;
+    padding: 60px 20px 20px 20px;
+} 
+.logos{
+    justify-content: space-between;
+    padding: 60px 20px;
+}
+.lastBox{
+    background-color: yellow;
+    margin-top: -50px;
+    margin-bottom: -50px;
+}
+.lastBox h3{
+    font-size: 30px;
+    padding: 20px;
+}
+.lastBox p{
+    font-size: 30px;
+    padding: 20px;
+}
+.lastBox i{
+    font-size: 50px;
+    padding: 20px 5px;
+}
+.blackBox{
+    background-color: black;
+    color: white;
+}
+.blackBox h3{
+    padding: 12px;
+}
+.blackBox p{
+    font-size: 20px;
+}
+.blackBox time{
+    font-size: 18px;
+}
+.title{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    margin-top: -40px;
+}
+.arrowPadding{
+    padding: 20px;
+    background-color: yellow;
+    padding: 12px;
+    color: black;
+    margin-top: -25px;
+}
+.arrowUp{
+    font-size: 35px;
+    text-align: center;
+}
+.author{
+    float: right;
+    margin: 5px 10px 0 10px;
+    padding: 5px 20px 0 20px;
+}
+.author p{
+    font-size: 20px;
+}
+
+
